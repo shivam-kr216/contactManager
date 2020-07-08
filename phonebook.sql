@@ -42,10 +42,8 @@ CREATE TABLE `add_contact` (
 -- Dumping data for table `add_contact`
 --
 
-INSERT INTO `add_contact` (`id`, `contact_name`, `dateofbirth`, `phone`, `address`) VALUES
-(9, 'Ritik Kumar', '2002-12-01', '9905365870', 'ritikkumar2k18@gmail.com'),
-(10, 'Shivam kumar', '1999-07-12', '8434090048', 'shivamkr216@gmail.com'),
-(17, 'Gulshan ', '2000-07-14', '6209591567', 'gulshan@gmail.com');
+
+
 
 --
 -- Indexes for dumped tables
